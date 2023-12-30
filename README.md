@@ -68,12 +68,9 @@ broadcast - admin only
 
 
 <p align="left">
-<a href="https://t.me/HxSupport"><img src="https://img.shields.io/badge/Join%20Our%20Group-HxSupport-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/crezybotz"><img src="https://img.shields.io/badge/Join%20Our%20Group-HxSupport-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://github.com/oVo-HxBots"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/HxBots"><img src="https://img.shields.io/badge/Instagram-HxBots-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/crezydeveloper"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 
